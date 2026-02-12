@@ -1,0 +1,7 @@
+Exercise
+What's the difference
+You've just learned that data can exist in different structures. Can you correctly define structured, semi-structured and unstructured data?
+
+Instructions
+100XP
+Classify the statements to the data structure they correspond to.

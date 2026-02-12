@@ -1,0 +1,24 @@
+ChatCompletion
+│
+├── id
+├── object
+├── created
+├── model
+├── service_tier
+├── system_fingerprint
+├── choices (list)
+│     └── Choice
+│           ├── index
+│           ├── finish_reason
+│           └── message
+│                 ├── role
+│                 └── content
+│
+└── usage
+      ├── prompt_tokens
+      ├── completion_tokens
+      └── total_tokens
+
+
+# chap 2: bắt đầu từ file 5-....py
+# chap 3: bắt đầu từ file 14-....py

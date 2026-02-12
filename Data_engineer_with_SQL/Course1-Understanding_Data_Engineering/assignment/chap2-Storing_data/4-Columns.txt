@@ -1,0 +1,3 @@
+Columns
+Which column allows these two tables to form a relational database?
+

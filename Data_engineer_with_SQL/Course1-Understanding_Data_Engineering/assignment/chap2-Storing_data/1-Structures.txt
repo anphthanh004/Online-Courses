@@ -1,0 +1,4 @@
+Structures
+In the video, you learned about the three different types of data structure. The less structured the data, the more flexibility there is in how it's stored.
+
+Which of the following statements is false?

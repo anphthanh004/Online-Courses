@@ -1,0 +1,9 @@
+Exercise
+Our warehouse (in the middle of our street)
+Although both are used for data storage, data lakes and data warehouses are used for different purposes and work in different ways.
+
+Can you correctly classify the statements, depending on whether they apply to data lakes or data warehouses?
+
+Instructions
+100XP
+Classify the statements: do they apply to data lakes or data warehouses?

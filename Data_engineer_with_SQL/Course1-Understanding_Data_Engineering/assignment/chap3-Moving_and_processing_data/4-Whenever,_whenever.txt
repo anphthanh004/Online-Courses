@@ -1,0 +1,7 @@
+Whenever, whenever
+While you're having lunch with the rest of the data science team, Sasha, the new data engineer intern, is telling you this: "Parallel computing is a jack of all trades and can be used whenever we want, for any task we want. It just optimizes running any data processing tasks. We should start implementing it across the whole pipeline. I'm ready to help do it!"
+
+Is her statement actually true or false?
+
+
+# Nope! Parallel computing, although incredibly efficient and powerful, is not a magic tool solving all the data engineering processing challenges, and can actually be overkill. It incurs a cost in that data has to be moved to the processor. Also, the time taken to move data can sometimes outweigh the time saved by doing computations in parallel. The two scenarios where this tends to occur are when transporting data is slow (imagine if the sales assistants folding t shirts worked in different buildings), or when the computation is trivial.

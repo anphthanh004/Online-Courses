@@ -1,0 +1,20 @@
+Somewhere I belong
+Spotflix's data engineers are worried about the company's reliance on a single vendor, and are considering a multicloud approach. They also think it might allow Spotflix to reduce costs, and to be more resilient in the face of a disaster.
+
+As you've just seen, the main cloud providers are AWS, Microsoft Azure and Google Cloud. Together, they own about half of the cloud computing market share. They have different services, some you saw in the video, some you're about to discover. They also have competitors, some of which you're about to discover as well.
+
+Can you help the data engineers classify the different services before they start evaluating alternatives?
+
+Instructions
+100XP
+Correctly classify the cloud services solutions as either computing, or databases.
+
+
+
+
+Snowflake, founded in 2012, is disrupting the data warehouse industry and enjoyed a 174% revenue growth in 2019. That might be a name to remember!
+
+Alright, excellent job! In a couple hours, you went from wondering what data engineering is to being able to classify cloud solutions. Impressive! One last video and you're good to go!
+
+
+Press enter to

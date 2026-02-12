@@ -1,0 +1,4 @@
+It's not true
+The main objective, when setting up data pipelines, is to improve the efficiency with which data flows, from its ingestion to the final users.
+
+Most of the options below are true, but one is false. Which one is it?

@@ -1,0 +1,4 @@
+Tell the truth
+So far, you heard about data lakes, data warehouses, databases, and you just saw the differences between the three.
+
+Which of the following statements is true?
