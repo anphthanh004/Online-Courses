@@ -1,0 +1,9 @@
+# Is this prompt effective?
+# Prompt engineering is about creating clear and concise prompts that guide the behavior of a language model efficiently to produce the desired output. In the previous video, you have learned about prompt engineering principles and what makes a prompt effective. Now, it's time to put your knowledge into practice!
+
+# Here, you have a list of prompts, and your task is to classify each prompt as either effective or ineffective based on the principles you now know.
+
+# Instructions
+# 100XP
+# Drag and drop each prompt into the appropriate category.
+
