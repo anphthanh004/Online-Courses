@@ -1,0 +1,6 @@
+Exploring models on the Hub!
+You're a research scientist working on a new type of X-ray imaging device. 
+This device offers increased image resolution, which you hope to use to detect illnesses like pneumonia earlier. 
+Rather than training a machine learning model from scratch, you want to fine-tune an existing model trained for a similar purpose to your new images, and the model card for such a model is shown.
+
+Consider the card and select the false statement from the options provided.
